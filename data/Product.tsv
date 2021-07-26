@@ -1,0 +1,95 @@
+Product	Brand Level 1	Brand Level 2	Price Class	PRODUCT_KEY	PRICE_CLASS_ORDER
+MTXT	Acer	Acer	10M - 12M	0	4
+MTXT	Acer	Acer	12M - 14M	1	5
+MTXT	Acer	Acer	5M - 8M	2	1
+MTXT	Acer	Acer	8M - 10M	3	3
+MTXT	Acer	Acer	<5M	4	0
+MTXT	Acer	Acer	>16M	5	7
+MTXT	Acer	Acer	14M - 16M	6	6
+MTXT	Apple	Apple	>16M	7	7
+MTXT	Asus	Asus	<5M	8	0
+MTXT	Asus	Asus	>16M	9	7
+MTXT	Asus	Asus	10M - 12M	10	4
+MTXT	Asus	Asus	12M - 14M	11	5
+MTXT	Asus	Asus	14M - 16M	12	6
+MTXT	Asus	Asus	5M - 8M	13	1
+MTXT	Asus	Asus	8M - 10M	14	3
+MTXT	Dell	Dell	>16M	15	7
+MTXT	Dell	Dell	10M - 12M	16	4
+MTXT	Dell	Dell	12M - 14M	17	5
+MTXT	Dell	Dell	14M - 16M	18	6
+MTXT	Dell	Dell	5M - 8M	19	1
+MTXT	Dell	Dell	8M - 10M	20	3
+MTXT	Dell	Dell	<5M	21	0
+MTXT	HP	HP	>16M	22	7
+MTXT	HP	HP	10M - 12M	23	4
+MTXT	HP	HP	12M - 14M	24	5
+MTXT	HP	HP	14M - 16M	25	6
+MTXT	HP	HP	5M - 8M	26	1
+MTXT	HP	HP	8M - 10M	27	3
+MTXT	HP	HP	<5M	28	0
+MTXT	Lenovo	Lenovo	10M - 12M	29	4
+MTXT	Lenovo	Lenovo	8M - 10M	30	3
+MTXT	Lenovo	Lenovo	<5M	31	0
+MTXT	Lenovo	Lenovo	5M - 8M	32	1
+MTXT	Lenovo	Lenovo	12M - 14M	33	5
+MTXT	Lenovo	Lenovo	>16M	34	7
+MTXT	MSI	MSI	>16M	35	7
+MTXT	Lenovo	Lenovo	14M - 16M	36	6
+MTXT	Others	LG	>16M	37	7
+MTXT	Others	Masstel	<5M	38	0
+MTXT	Others	Masstel	5M - 8M	39	1
+MTXT	Apple	Apple	14M - 16M	40	6
+MTXT	MSI	MSI	10M - 12M	41	4
+MTXT	Others	Haier	5M - 8M	42	1
+MTXT	Others	Haier	<5M	43	0
+MTXT	Others	LG	12M - 14M	44	5
+MTXT	Others	LG	14M - 16M	45	6
+MTXT	MSI	MSI	12M - 14M	46	5
+MTXT	MSI	MSI	14M - 16M	47	6
+MTXT	Acer	Acer	<8M	48	2
+MTXT	Acer	Acer	16M - 20M	49	8
+MTXT	Acer	Acer	20M - 25M	50	9
+MTXT	Apple	Apple	16M - 20M	51	8
+MTXT	Apple	Apple	>25M	52	10
+MTXT	Apple	Apple	20M - 25M	53	9
+MTXT	Asus	Asus	16M - 20M	54	8
+MTXT	Asus	Asus	<8M	55	2
+MTXT	Asus	Asus	20M - 25M	56	9
+MTXT	Dell	Dell	16M - 20M	57	8
+MTXT	Dell	Dell	20M - 25M	58	9
+MTXT	Dell	Dell	<8M	59	2
+MTXT	HP	HP	16M - 20M	60	8
+MTXT	HP	HP	<8M	61	2
+MTXT	HP	HP	20M - 25M	62	9
+MTXT	HP	HP	>25M	63	10
+MTXT	Lenovo	Lenovo	16M - 20M	64	8
+MTXT	Lenovo	Lenovo	<8M	65	2
+MTXT	Lenovo	Lenovo	>25M	66	10
+MTXT	Lenovo	Lenovo	20M - 25M	67	9
+MTXT	MSI	MSI	>25M	68	10
+MTXT	Acer	Acer	>25M	69	10
+MTXT	Asus	Asus	>25M	70	10
+MTXT	Dell	Dell	>25M	71	10
+MTXT	Others	Haier	<8M	72	2
+MTXT	Others	Masstel	<8M	73	2
+MTXT	MSI	MSI	20M - 25M	74	9
+MTXT	MSI	MSI	16M - 20M	75	8
+MTXT	Apple	Apple	12M - 14M	76	5
+MTXT	Others	Huawei	14M - 16M	77	6
+MTXT	Others	Huawei	16M - 20M	78	8
+MTXT	MSI	MSI	8M - 10M	79	3
+MTXT	MSI	MSI	<8M	80	2
+MTXT	Others	Huawei	12M - 14M	81	5
+MTXT	Others	LG	>25M	82	10
+MTXT	Others	Huawei	>25M	83	10
+MTXT	Apple	Apple	<8M	84	2
+MTXT	Others	Sony	<8M	85	2
+MTXT	Others	Huawei	10M - 12M	86	4
+MTXT	Others	LG	20M - 25M	87	9
+MTXT	Others	Huawei	8M - 10M	88	3
+MTXT	Others	Microsoft	>25M	89	10
+MTXT	Others	Microsoft	20M - 25M	90	9
+MTXT	Others	Avita	14M - 16M	91	6
+MTXT	Others	Avita	16M - 20M	92	8
+MTXT	Apple	Apple	8M - 10M	93	3
